@@ -130,11 +130,11 @@
 
     > 블록 레벨 엘리먼트 : 태그를 사용해 요소를 삽입했을 때 혼자 한 줄을 차지한다. 너비가 100% 라는 것을 뜻한다. 따라서, 다음 요소가 양 옆으로 붙을 공간이 없어서 줄넘김이 된다.
 
-    > <p>, <h1>~<h6>, <ul>, <ol>, <div>, <blockquote>, <form>, <hr>, <table>, <fieldset>, <address>
+    <!-- <p>, <h1>~<h6>, <ul>, <ol>, <div>, <blockquote>, <form>, <hr>, <table>, <fieldset>, <address> -->
 
     > 인라인 레벨 엘리먼트 : 줄을 차지하지 않는 요소이다. 화면에 표시되는 컨텐츠만큼 영역을 차지하고 나머지 공간에는 다른 요소가 올 수 있다. 따라서, 한 줄에 여러개의 인라인 레벨 엘리먼트를 표시할 수 있다.
 
-    > <a>, <img>, <object>, <br>, <sub>, <sup>, <span>, <input>, <textarea>, <label>, <button>
+    <!-- <a>, <img>, <object>, <br>, <sub>, <sup>, <span>, <input>, <textarea>, <label>, <button> -->
 
 ## Quest
 
